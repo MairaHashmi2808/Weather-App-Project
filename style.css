@@ -3,6 +3,7 @@ body{
 }
 .container{
     width: 450px;
+    max-width: 95%;
     height: 600px auto;
     background: linear-gradient(135deg, rgb(158, 252, 230), rgb(135, 240, 151));
     border-radius: 20px;
